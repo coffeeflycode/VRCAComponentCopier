@@ -1,5 +1,5 @@
 # VRCAComponentCopier
-A tool for unity to quickly copy components from one unity object to another. Speicifically designed for use for avatars on vrchat.
+A tool for unity to quickly copy components from one unity object to another. Specifically designed for use for avatars on vrchat.
 
 Tool is located under VRChat SDK menu for convenience.
 Usage is simple, add an object from the Hierarchy in unity to copy from, and then add another object to copy to, and fire away.
